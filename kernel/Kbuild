@@ -148,8 +148,8 @@ else
 KSU_PACKAGE_NAME ?= me.weishu.kernelsu.pr
 endif
 
-KSU_EXPECTED_SIZE ?= 0x02d6
-KSU_EXPECTED_HASH ?= 195bf7247e66ed412bdabad9bc8b3a7293f892b8aa6ff296ab0e9d2c32f47e2d
+KSU_EXPECTED_SIZE ?= 0x02e4
+KSU_EXPECTED_HASH ?= c042dc3b17fd2854e5ed0b3970234d98eeabcfcd720ca89416cbae241ff37d5a
 
 $(info -- KernelSU Manager package name: $(KSU_PACKAGE_NAME))
 $(info -- KernelSU Manager signature size: $(KSU_EXPECTED_SIZE))
